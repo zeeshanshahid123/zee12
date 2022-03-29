@@ -1,1 +1,5 @@
-# zee12
+An h1 header
+
+Muhammad
+============
+Sonarqube incorporation with Azure DevOps permits you to keep up with code quality and security in your Azure DevOps archives. It is viable with both Azure DevOps Server and Azure DevOps Services., The Sonar Scanner for Azure DevOps makes it simple to coordinate examination into you fabricate pipeline. The expansion permits the examination of all dialects upheld by SonarQube, SonarQube distributes Quality Gate and code metric outcomes solidly in your investigation outline. You're continuously getting the right information, brilliantly and perfectly positioned. SonarQube is an open-source platform used for continuous inspection of code quality. It per- forms static analysis of code, in order to detect bugs, code smells, and security vulnerabilities. SonarQube works with a wide range of programming languages and integrates with Maven, Ant, Gradle, MS Build and many CI tools. In this lab we will look at running SonarQube in Docker, integrating it with Jenkins, and using Sonar Lint to enable early quality feedback within an IDE. SonarQube can also be run in an EC2 instance, but requires at least 3GB of RAM, which means a t2 medium or larger. As this is beyond the free tier, you are not required to implement it for this module.
